@@ -1,0 +1,351 @@
+﻿body {
+    /*padding-top: 50px;*/
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    /*max-width: 500px;*/
+/*    background-color: #EEE;*/
+    color: #000;
+/*    border-color: #EEE;*/
+}
+
+.boton-search-categories {
+    padding-left: 4px;
+    max-width: 173px;
+    background-color: #232323;
+    /* border-color: #263d5f; */
+    border-style: hidden;
+    color: #CCC;
+    font-family: inherit;
+    font-size: 14px;
+    border-radius: 40px;
+    position: relative;
+    left: 0px;
+    outline: 0;
+    z-index: 3;
+}
+
+.boton-ver-mas-gr {
+    
+    max-width: 173px;
+    background-color: #2a2e44;
+    /* border-color: #263d5f; */
+    border-style: hidden;
+    color: #FFF;
+    font-family: inherit;
+    font-size: 14px;
+    border-radius: 40px;
+    position: relative;
+    left: 0px;
+    outline: 0;
+    z-index: 3;
+}
+
+
+
+
+#lnkCarrito {
+
+    background-color: white;
+}
+
+.float {
+    position: fixed;
+    width: 360px;
+    height: 80px;
+    bottom: 40px;
+    right: 40px;
+    background-color: #354e99;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    box-shadow: 2px 2px 3px #999;
+    font-size: 33px;
+    padding-top: 16px;
+    box-shadow: 0 8px 6px -6px black;
+}
+
+/*CARGA MASIVA*/
+
+.CargaMasiva .CargaMasiva-title {
+    text-align: center;
+    font-weight: 700;
+    color: #272727;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.CargaMasiva .CargaMasiva_barcode {
+    margin-bottom: 25px;
+}
+
+    .CargaMasiva .CargaMasiva_barcode .barcode-title b {
+        text-transform: uppercase;
+        font-size: 28px;
+        font-weight: 400;
+        padding-left: 48px;
+        /*border-left: 4px solid #272727;*/
+    }
+
+    .CargaMasiva .CargaMasiva_barcode .barcode-input #txtCodigoBarras {
+        margin-right: 20px;
+        border-radius: 20px;
+        padding: 3px;
+        border: 1px solid #d9d9d9;
+        margin-left: 20px;
+        width: 240px;
+    }
+
+    .CargaMasiva .CargaMasiva_barcode .barcode-input #txtCantidad {
+        margin-right: 20px;
+        border-radius: 20px;
+        padding: 3px;
+        border: 1px solid #d9d9d9;
+        margin-left: 20px;
+        width: 70px;
+    }
+
+    .CargaMasiva .CargaMasiva_barcode #btnAgregar, #btnAgregarIr, #btnAgregarCurva {
+        background: ##8cc63f;
+        color: #fff;
+        font-weight: 700;
+        padding: 6px 10px;
+        box-shadow: none;
+        border: 0;
+        border-radius: 6px;
+        margin-right: 10px;
+        margin-left: 20px;
+    
+    }
+    .CargaMasiva .CargaMasiva_barcode #btnAgregar{
+        background: ##8cc63f;
+        color: #fff;
+        font-weight: 700;
+        padding: 6px 10px;
+        box-shadow: none;
+        border: 0;
+        border-radius: 6px;
+        margin-right: 10px;
+        margin-left: 47px;
+    }
+
+        .CargaMasiva .CargaMasiva_barcode #btnAgregar:hover {
+            background: #65B5B7;
+        }
+
+    .CargaMasiva .CargaMasiva_barcode #btnAgregarIr:hover {
+        background: #65B5B7;
+    }
+
+    .CargaMasiva .CargaMasiva_barcode #btnAgregarCurva:hover {
+        background: #65B5B7;
+    }
+
+    .CargaMasiva .CargaMasiva_barcode .barcode-input {
+        margin-bottom: 20px;
+        /*margin-left: 50px;*/
+    }
+
+.CargaMasiva .CargaMasiva_filter b {
+    text-transform: uppercase;
+    font-size: 28px;
+    font-weight: 400;
+    padding-left: 49px;
+    /* border-left: 4px solid #272727; */
+}
+
+.CargaMasiva .CargaMasiva_filter #frmFiltrar {
+    margin-bottom: 15px;
+    width: 570px;
+    padding-left: 50px;
+}
+
+    .CargaMasiva .CargaMasiva_filter #frmFiltrar .ms-options-wrap.ms-active .ms-options .ms-search {
+        text-align: center;
+    }
+
+        .CargaMasiva .CargaMasiva_filter #frmFiltrar .ms-options-wrap.ms-active .ms-options .ms-search input {
+            width: 50%;
+            margin-top: 30px;
+            border: 1px solid #aaa;
+            color: #aaa;
+            border-radius: 20px;
+            padding: 10px;
+        
+        }
+
+    .CargaMasiva .CargaMasiva_filter #frmFiltrar .ms-options-wrap.ms-active .ms-options .ms-selectall.global {
+        background: #8cc63f;
+        color: #fff;
+        font-weight: 700;
+        padding: 6px 10px;
+        box-shadow: none;
+        border: 0;
+        border-radius: 6px;
+        margin-top: 15px;
+        margin-right: 10px;
+        border-radius:20px;
+    }
+
+        .CargaMasiva .CargaMasiva_filter #frmFiltrar .ms-options-wrap.ms-active .ms-options .ms-selectall.global:hover {
+            text-decoration: none;
+            background: #65B5B7;
+        }
+
+    .CargaMasiva .CargaMasiva_filter #frmFiltrar .ms-options-wrap.ms-active .ms-options .optgroup .label {
+        margin-bottom: 25px;
+        font-size: 24px;
+        text-transform: uppercase;
+        margin-right: 1000px;
+        width: 100%;
+        padding: 10px;
+    }
+
+        .CargaMasiva .CargaMasiva_filter #frmFiltrar .ms-options-wrap.ms-active .ms-options .optgroup .label:after {
+            content: '';
+            display: block;
+            height: 6px;
+            width: 70px;
+            background: #8cc63f;
+            margin-top: 10px;
+            /* margin-right: auto; */
+            /* margin-left: auto; */
+            border-radius: 10px;
+        }
+
+    .CargaMasiva .CargaMasiva_filter #frmFiltrar #btnFiltrar {
+        background: #8cc63f;
+        color: #fff;
+        font-weight: 700;
+        padding: 6px 10px;
+        box-shadow: none;
+        border: 0;
+        border-radius: 20px;
+        margin-right: 10px;
+    }
+
+.CargaMasiva form .panel.panel-primary {
+    margin-top: 30px;
+}
+
+.CargaMasiva form .btnAgregarAlCarrito .btn_guardar {
+    position: absolute;
+    top: 11px;
+    right: 14px;
+}
+
+/*
+.showmore-button {
+    cursor: pointer;
+    background - color: #999;
+    color: white;
+    text - transform: uppercase;
+    text - align: center;
+    padding: 7px 5px 5px 5px;
+    margin - top: 5px;
+}*/
+
+#lnkShowMore {
+    padding: 10px;
+    text-align: center;
+    background-color: #33739E;
+    color: #fff;
+    border-width: 0 1px 1px 0;
+    border-style: solid;
+    border-color: #fff;
+    box-shadow: 0 1px 1px #ccc;
+    transition: all 600ms ease-in-out;
+    -webkit-transition: all 600ms ease-in-out;
+    -moz-transition: all 600ms ease-in-out;
+    -o-transition: all 600ms ease-in-out;
+}
+
+#lnkShowMore:hover {
+    background-color: #fff;
+    color: #33739E;
+}
+
+.divShowMore {
+    display: none;
+    padding: 10px;
+    margin-bottom: -20px;
+}
+
+#msjAlert {
+    display: none;
+    width: 830px !important;
+    font-weight: bold !important;
+}
+
+#msjAlertPopUp {
+    display: none;
+    font-weight: bold !important;
+}
+
+
+.slideImgMargins {
+    margin: 15px 15px 0 15px;
+}
+
+.ui-autocomplete {
+    position: absolute;
+    cursor: default;
+    background: #CCC
+}
+
+/* workarounds */
+html .ui-autocomplete {
+    width: 1px;
+}
+/* without this, the menu expands to 100% in IE6 */
+.ui-menu {
+    list-style: none;
+    padding: 2px;
+    margin: 0;
+    display: block;
+    float: left;
+}
+
+    .ui-menu .ui-menu {
+        margin-top: -3px;
+    }
+
+    .ui-menu .ui-menu-item {
+        margin: 0;
+        padding: 0;
+        zoom: 1;
+        float: left;
+        clear: left;
+        width: 100%;
+    }
+
+        .ui-menu .ui-menu-item a {
+            text-decoration: none;
+            display: block;
+            padding: .2em .4em;
+            line-height: 1.5;
+            zoom: 1;
+        }
+
+            .ui-menu .ui-menu-item a.ui-state-hover,
+            .ui-menu .ui-menu-item a.ui-state-active {
+                font-weight: normal;
+                margin: -1px;
+            }

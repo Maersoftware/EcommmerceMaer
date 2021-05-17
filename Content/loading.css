@@ -1,0 +1,178 @@
+﻿#loading {
+    position: relative;
+    width: 156px;
+    height: 19px;
+    margin: auto;
+}
+
+.fountainG {
+    position: absolute;
+    top: 0;
+    background-color: rgba(0,0,0,0.66);
+    width: 19px;
+    height: 19px;
+    animation-name: bounce_fountainG;
+    -o-animation-name: bounce_fountainG;
+    -ms-animation-name: bounce_fountainG;
+    -webkit-animation-name: bounce_fountainG;
+    -moz-animation-name: bounce_fountainG;
+    animation-duration: 0.975s;
+    -o-animation-duration: 0.975s;
+    -ms-animation-duration: 0.975s;
+    -webkit-animation-duration: 0.975s;
+    -moz-animation-duration: 0.975s;
+    animation-iteration-count: infinite;
+    -o-animation-iteration-count: infinite;
+    -ms-animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+    -moz-animation-iteration-count: infinite;
+    animation-direction: normal;
+    -o-animation-direction: normal;
+    -ms-animation-direction: normal;
+    -webkit-animation-direction: normal;
+    -moz-animation-direction: normal;
+    transform: scale(.3);
+    -o-transform: scale(.3);
+    -ms-transform: scale(.3);
+    -webkit-transform: scale(.3);
+    -moz-transform: scale(.3);
+    border-radius: 12px;
+    -o-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+}
+
+#fountainG_1 {
+    left: 0;
+    animation-delay: 0.386s;
+    -o-animation-delay: 0.386s;
+    -ms-animation-delay: 0.386s;
+    -webkit-animation-delay: 0.386s;
+    -moz-animation-delay: 0.386s;
+}
+
+#fountainG_2 {
+    left: 19px;
+    animation-delay: 0.4825s;
+    -o-animation-delay: 0.4825s;
+    -ms-animation-delay: 0.4825s;
+    -webkit-animation-delay: 0.4825s;
+    -moz-animation-delay: 0.4825s;
+}
+
+#fountainG_3 {
+    left: 39px;
+    animation-delay: 0.589s;
+    -o-animation-delay: 0.589s;
+    -ms-animation-delay: 0.589s;
+    -webkit-animation-delay: 0.589s;
+    -moz-animation-delay: 0.589s;
+}
+
+#fountainG_4 {
+    left: 58px;
+    animation-delay: 0.6855s;
+    -o-animation-delay: 0.6855s;
+    -ms-animation-delay: 0.6855s;
+    -webkit-animation-delay: 0.6855s;
+    -moz-animation-delay: 0.6855s;
+}
+
+#fountainG_5 {
+    left: 78px;
+    animation-delay: 0.782s;
+    -o-animation-delay: 0.782s;
+    -ms-animation-delay: 0.782s;
+    -webkit-animation-delay: 0.782s;
+    -moz-animation-delay: 0.782s;
+}
+
+#fountainG_6 {
+    left: 97px;
+    animation-delay: 0.8785s;
+    -o-animation-delay: 0.8785s;
+    -ms-animation-delay: 0.8785s;
+    -webkit-animation-delay: 0.8785s;
+    -moz-animation-delay: 0.8785s;
+}
+
+#fountainG_7 {
+    left: 117px;
+    animation-delay: 0.975s;
+    -o-animation-delay: 0.975s;
+    -ms-animation-delay: 0.975s;
+    -webkit-animation-delay: 0.975s;
+    -moz-animation-delay: 0.975s;
+}
+
+#fountainG_8 {
+    left: 136px;
+    animation-delay: 1.0715s;
+    -o-animation-delay: 1.0715s;
+    -ms-animation-delay: 1.0715s;
+    -webkit-animation-delay: 1.0715s;
+    -moz-animation-delay: 1.0715s;
+}
+
+
+
+@keyframes bounce_fountainG {
+    0% {
+        transform: scale(1);
+        background-color: rgba(0,0,0,0.98);
+    }
+
+    100% {
+        transform: scale(.3);
+        background-color: rgb(255,255,255);
+    }
+}
+
+@-o-keyframes bounce_fountainG {
+    0% {
+        -o-transform: scale(1);
+        background-color: rgba(0,0,0,0.98);
+    }
+
+    100% {
+        -o-transform: scale(.3);
+        background-color: rgb(255,255,255);
+    }
+}
+
+@-ms-keyframes bounce_fountainG {
+    0% {
+        -ms-transform: scale(1);
+        background-color: rgba(0,0,0,0.98);
+    }
+
+    100% {
+        -ms-transform: scale(.3);
+        background-color: rgb(255,255,255);
+    }
+}
+
+@-webkit-keyframes bounce_fountainG {
+    0% {
+        -webkit-transform: scale(1);
+        background-color: rgba(0,0,0,0.98);
+    }
+
+    100% {
+        -webkit-transform: scale(.3);
+        background-color: rgb(255,255,255);
+    }
+}
+
+@-moz-keyframes bounce_fountainG {
+    0% {
+        -moz-transform: scale(1);
+        background-color: rgba(0,0,0,0.98);
+    }
+
+    100% {
+        -moz-transform: scale(.3);
+        background-color: rgb(255,255,255);
+    }
+}

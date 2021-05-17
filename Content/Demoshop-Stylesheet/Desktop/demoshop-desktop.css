@@ -1,0 +1,59 @@
+﻿  
+.custom-container-ovr {
+    display: block;
+    color: #FFF;
+    margin: 0 0 0 40vw;
+}
+
+.shpping-order-ovr {
+    max-width: fit-content;
+}
+
+.container-ovr {
+    margin-left: 10%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 100%;
+}
+
+.img-fluid-ovr {
+    max-width: 140px;
+}
+
+.input-block-ovr {
+    margin-left: 81%;
+    width: 800px;
+}
+
+.input-group-prepend-ovr {
+    border-radius: 10%;
+    border-color: transparent;
+    padding: 5px;
+}
+
+.form-control-ovr {
+    border-radius: 3%;
+    border-color: #e9e9e9;
+    border-style: solid;
+    background-color: transparent;
+    padding: 2px;
+}
+
+
+.big-deal-form {
+    width: 100%;
+}
+
+.user-block-ovr {
+    max-height: 70%;
+    max-width: fit-content;
+}
+
+.icon-user-ovr {
+    color: #FFF;
+}
+
+.btn-group-ovr {
+    width: 17%;
+}
