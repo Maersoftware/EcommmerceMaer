@@ -822,7 +822,7 @@ button {
         .offer-banner .banner-contain h5 {
             font-size: 18px;
             color: #fff;
-            font-family: 'Quicksand', sans-serif;
+            font-family: ''Quicksand'', sans-serif;
             letter-spacing: 0.05em;
             font-weight: 400;
             margin-top: 25px
@@ -15541,7 +15541,7 @@ body.dark {
     background: rgba(49,49,49,0.7);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
     color: #fff;
-    font: 10px Nunito,sans-serif;
+    font: 10px Quicksand,sans-serif;
     text-align: left;
     white-space: nowrap;
     padding: 5px;
@@ -15554,7 +15554,7 @@ body.dark {
 
     .chart-sparkline .jqsfield {
         color: #fff;
-        font: 10px Nunito,sans-serif;
+        font: 10px Quicksand,sans-serif;
         text-align: left
     }
 
@@ -15999,7 +15999,7 @@ a:hover {
         }
 
 .digital-add .col-form-label {
-    font-family: Nunito
+    font-family: Quicksand
 }
 
 .digital-add .form-control {
@@ -17539,7 +17539,7 @@ input:focus {
             margin-bottom: 0;
             font-weight: 800;
             text-transform: uppercase;
-            font-family: Nunito
+           
         }
 
             .page-wrapper .page-body-wrapper .page-header .row h3 small {
@@ -17558,7 +17558,7 @@ input:focus {
     }
 
         .page-wrapper .page-body-wrapper .page-header .breadcrumb .breadcrumb-item {
-            font-family: Nunito
+            
         }
 
             .page-wrapper .page-body-wrapper .page-header .breadcrumb .breadcrumb-item + .breadcrumb-item:before {
@@ -18120,7 +18120,7 @@ ul.notification-dropdown.onhover-show-div {
 .page-wrapper .page-body-wrapper .page-sidebar {
     width: 255px;
     position: fixed;
-    background: #242934;
+    background: #292929;
     top: 80px;
     height: calc(100vh);
     z-index: 9;
@@ -19592,23 +19592,25 @@ ul.notification-dropdown.onhover-show-div {
     }
 
 .btn-success {
-    background-color: #11d89c !important;
-    border-color: #11d89c !important
+    color: #ffff !important;
+    background-color: #3271b8 !important;
+   border-color: #3271b8 !important;
 }
 
     .btn-success.disabled {
         background-color: #11d89c !important;
-        border-color: #11d89c !important
+ 
     }
 
     .btn-success:disabled {
         background-color: #11d89c !important;
-        border-color: #11d89c !important
+        
     }
 
     .btn-success:hover, .btn-success:focus, .btn-success:active, .btn-success.active {
-        background-color: #0da97a !important;
-        border-color: #0da97a !important
+        color: #ffff !important;
+        background-color: #1e5798 !important;
+        border-color: #3271b8 !important;
     }
 
     .btn-success:focus {
