@@ -1,5 +1,5 @@
 body {
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 14px;
     background-color: #fff;
     color: #777
@@ -100,7 +100,7 @@ button:focus {
 
 .alert {
     border-radius: 0;
-    background-color: #fff;
+    /*background-color: #fff;*/
     border: 1px solid #5cb85c
 }
 
@@ -822,7 +822,7 @@ button {
         .offer-banner .banner-contain h5 {
             font-size: 18px;
             color: #fff;
-            font-family: ''Quicksand'', sans-serif;
+            font-family: 'Poppins', sans-serif;
             letter-spacing: 0.05em;
             font-weight: 400;
             margin-top: 25px
@@ -2501,7 +2501,7 @@ button {
         }
 
             .top-header .top-header-left .shpping-order h6 {
-                font-family: 'Quicksand', sans-serif;
+                font-family: 'Poppins', sans-serif;
                 color: #fff;
                 text-transform: capitalize;
                 font-size: 13px
@@ -2520,7 +2520,7 @@ button {
                 font-size: 13px;
                 color: #fff;
                 text-transform: capitalize;
-                font-family: 'Quicksand', sans-serif;
+                font-family: 'Poppins', sans-serif;
             }
 
             .top-header .top-header-left .app-link ul li {
@@ -2559,7 +2559,7 @@ button {
                     .top-header .top-header-right .top-menu-block ul li a {
                         color: #fff;
                         text-transform: capitalize;
-                        font-family: 'Quicksand', sans-serif;
+                        font-family: 'Poppins', sans-serif;
                         font-size: 13px;
                         font-weight: 800;
                         letter-spacing: 1px;
@@ -2583,7 +2583,7 @@ button {
 
                 .top-header .top-header-right .language-block .language-dropdown .language-dropdown-click {
                     color: #fff;
-                    font-family: 'Quicksand', sans-serif;
+                    font-family: 'Poppins', sans-serif;
                     font-size: 13px;
                     font-weight: 800;
                     text-transform: capitalize
@@ -2618,7 +2618,7 @@ button {
                         .top-header .top-header-right .language-block .language-dropdown .language-dropdown-open li a {
                             color: #444;
                             font-size: 12px;
-                            font-family: 'Quicksand', sans-serif;
+                            font-family: 'Poppins', sans-serif;
                             text-transform: capitalize
                         }
 
@@ -2629,7 +2629,7 @@ button {
 
                 .top-header .top-header-right .language-block .curroncy-dropdown .curroncy-dropdown-click {
                     color: #fff;
-                    font-family: 'Quicksand', sans-serif;
+                    font-family: 'Poppins', sans-serif;
                     font-size: 13px;
                     font-weight: 800;
                     text-transform: capitalize
@@ -2664,7 +2664,7 @@ button {
                         .top-header .top-header-right .language-block .curroncy-dropdown .curroncy-dropdown-open li a {
                             color: #444;
                             font-size: 12px;
-                            font-family: 'Quicksand', sans-serif;
+                            font-family: 'Poppins', sans-serif;
                             text-transform: capitalize;
                             display: -webkit-box;
                             display: -ms-flexbox;
@@ -2824,7 +2824,7 @@ button {
                     color: #00baf2;
                     font-weight: 700;
                     text-transform: uppercase;
-                    font-family: Quicksand,sans-serif
+                    font-family: Poppins,sans-serif
                 }
 
                     .layout-header1 .main-menu-block .menu-right .icon-nav ul li .cart-item span {
@@ -3525,7 +3525,7 @@ button {
                     color: #00baf2;
                     font-weight: 700;
                     text-transform: uppercase;
-                    font-family: 'Quicksand', sans-serif;
+                    font-family: 'Poppins', sans-serif;
                     letter-spacing: 0.5px
                 }
 
@@ -3937,7 +3937,7 @@ button {
                         color: #fff;
                         font-weight: 400;
                         text-transform: uppercase;
-                        font-family: 'Quicksand', sans-serif;
+                        font-family: 'Poppins', sans-serif;
                         letter-spacing: 0.5px
                     }
 
@@ -4182,7 +4182,7 @@ button {
                     color: #8d8d8d;
                     font-weight: 700;
                     text-transform: uppercase;
-                    font-family: 'Quicksand', sans-serif;
+                    font-family: 'Poppins', sans-serif;
                     letter-spacing: 0.5px
                 }
 
@@ -4191,7 +4191,7 @@ button {
                 color: #8cc63f;
                 text-transform: uppercase;
                 font-weight: 700;
-                font-family: Quicksand,sans-serif
+                font-family: Poppins,sans-serif
             }
 
                 .layout-header4 .icon-block ul li a .cart-item span {
@@ -4991,7 +4991,7 @@ button {
                 }
 
             .media-banner .media-banner-box .media .media-body .media-contant p {
-                font-family: 'Quicksand', sans-serif;
+                font-family: 'Poppins', sans-serif;
                 font-size: 14px;
                 margin-bottom: 0
             }
@@ -5119,7 +5119,7 @@ button {
                     text-transform: uppercase;
                     margin-left: 35px;
                     margin-right: 35px;
-                    font-family: Quicksand
+                    font-family: Poppins
                 }
 
 .sub-footer {
@@ -5131,7 +5131,7 @@ button {
         color: #8d8d8d;
         margin-bottom: 0;
         text-transform: uppercase;
-        font-family: Quicksand;
+        font-family: Poppins;
         letter-spacing: 0.05em
     }
 
@@ -5221,7 +5221,7 @@ button {
         }
 
         .footer-1 .footer-box .footer-sub-box .footer-contant ul li {
-            font-family: Quicksand;
+            font-family: Poppins;
             display: inline;
             line-height: 1.8;
             margin-right: 15px
@@ -5258,7 +5258,7 @@ button {
 
             .footer-2 .footer-main-contian .footer-left .footer-detail p {
                 padding: 40px 0;
-                font-family: 'Quicksand', sans-serif;
+                font-family: 'Poppins', sans-serif;
                 text-transform: capitalize;
                 line-height: 1.8;
                 color: #777
@@ -5401,7 +5401,7 @@ button {
 
             .footer-2 .sub-footer .sub-footer-contain p {
                 color: #777;
-                font-family: Quicksand;
+                font-family: Poppins;
                 text-transform: uppercase;
                 letter-spacing: 0.05em;
                 text-align: center;
@@ -5564,7 +5564,7 @@ button {
 
             .footer-3 .footer-logo .footer-box .footer-contant p {
                 padding: 40px 0;
-                font-family: 'Quicksand', sans-serif;
+                font-family: 'Poppins', sans-serif;
                 text-transform: capitalize;
                 line-height: 1.8;
                 color: #777
@@ -5589,7 +5589,7 @@ button {
         .footer-3 .sub-footer h6 {
             font-size: 14px;
             color: #999;
-            font-family: Quicksand
+            font-family: Poppins
         }
 
             .footer-3 .sub-footer h6 span {
@@ -5612,7 +5612,7 @@ button {
     }
 
         .footer-4 .logo-detail p {
-            font-family: 'Quicksand', sans-serif;
+            font-family: 'Poppins', sans-serif;
             color: #8a8a8a
         }
 
@@ -5633,7 +5633,7 @@ button {
     font-size: calc(14px + (18 - 14) * ((100vw - 320px) / (1920 - 320)));
     text-transform: uppercase;
     color: #000;
-    font-family: Quicksand
+    font-family: Poppins
 }
 
 .footer-title .line {
@@ -5654,7 +5654,7 @@ button {
         padding-bottom: 15px;
         font-size: 14px;
         text-transform: capitalize;
-        font-family: Quicksand;
+        font-family: Poppins;
         letter-spacing: 0.03em
     }
 
@@ -6443,28 +6443,28 @@ button {
 
             .newsletter .subscribe-block .input-group input::-webkit-input-placeholder {
                 color: #e8ebf2;
-                font-family: Quicksand;
+                font-family: Poppins;
                 letter-spacing: 1px;
                 font-size: 12px
             }
 
             .newsletter .subscribe-block .input-group input:-ms-input-placeholder {
                 color: #e8ebf2;
-                font-family: Quicksand;
+                font-family: Poppins;
                 letter-spacing: 1px;
                 font-size: 12px
             }
 
             .newsletter .subscribe-block .input-group input::-ms-input-placeholder {
                 color: #e8ebf2;
-                font-family: Quicksand;
+                font-family: Poppins;
                 letter-spacing: 1px;
                 font-size: 12px
             }
 
             .newsletter .subscribe-block .input-group input::placeholder {
                 color: #e8ebf2;
-                font-family: Quicksand;
+                font-family: Poppins;
                 letter-spacing: 1px;
                 font-size: 12px
             }
@@ -15541,7 +15541,7 @@ body.dark {
     background: rgba(49,49,49,0.7);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
     color: #fff;
-    font: 10px Quicksand,sans-serif;
+    font: 10px Nunito,sans-serif;
     text-align: left;
     white-space: nowrap;
     padding: 5px;
@@ -15554,7 +15554,7 @@ body.dark {
 
     .chart-sparkline .jqsfield {
         color: #fff;
-        font: 10px Quicksand,sans-serif;
+        font: 10px Nunito,sans-serif;
         text-align: left
     }
 
@@ -15999,7 +15999,7 @@ a:hover {
         }
 
 .digital-add .col-form-label {
-    font-family: Quicksand
+    font-family: Nunito
 }
 
 .digital-add .form-control {
@@ -16157,7 +16157,7 @@ a:hover {
 }
 
     .static-top-widget .media-body h3 {
-        font-family: work-Sans,sans-serif;
+        font-family: Montserrat;
         color: #fff
     }
 
@@ -17328,9 +17328,9 @@ footer {
 
 body {
     background-color: rgba(246,246,246,0.6);
-    font-size: 14px;
+    font-size: 12px;
     overflow-x: hidden;
-    font-family: work-Sans,sans-serif;
+    font-family: Montserrat;
     color: #313131
 }
 
@@ -17539,7 +17539,7 @@ input:focus {
             margin-bottom: 0;
             font-weight: 800;
             text-transform: uppercase;
-           
+            font-family: Nunito
         }
 
             .page-wrapper .page-body-wrapper .page-header .row h3 small {
@@ -17558,7 +17558,7 @@ input:focus {
     }
 
         .page-wrapper .page-body-wrapper .page-header .breadcrumb .breadcrumb-item {
-            
+            font-family: Nunito
         }
 
             .page-wrapper .page-body-wrapper .page-header .breadcrumb .breadcrumb-item + .breadcrumb-item:before {
@@ -18120,7 +18120,7 @@ ul.notification-dropdown.onhover-show-div {
 .page-wrapper .page-body-wrapper .page-sidebar {
     width: 255px;
     position: fixed;
-    background: #292929;
+    background: #242934;
     top: 80px;
     height: calc(100vh);
     z-index: 9;
@@ -19592,25 +19592,23 @@ ul.notification-dropdown.onhover-show-div {
     }
 
 .btn-success {
-    color: #ffff !important;
-    background-color: #3271b8 !important;
-   border-color: #3271b8 !important;
+    background-color: #11d89c !important;
+    border-color: #11d89c !important
 }
 
     .btn-success.disabled {
         background-color: #11d89c !important;
- 
+        border-color: #11d89c !important
     }
 
     .btn-success:disabled {
         background-color: #11d89c !important;
-        
+        border-color: #11d89c !important
     }
 
     .btn-success:hover, .btn-success:focus, .btn-success:active, .btn-success.active {
-        color: #ffff !important;
-        background-color: #1e5798 !important;
-        border-color: #3271b8 !important;
+        background-color: #0da97a !important;
+        border-color: #0da97a !important
     }
 
     .btn-success:focus {
@@ -20554,7 +20552,7 @@ table thead .border-bottom-warning th, table tbody .border-bottom-warning th, ta
 }
 
 .digits {
-    font-family: work-Sans,sans-serif
+    font-family: Montserrat
 }
 
 .custom-scrollbar::-webkit-scrollbar-track {
@@ -20707,7 +20705,7 @@ table thead .border-bottom-warning th, table tbody .border-bottom-warning th, ta
         letter-spacing: 1px;
         font-size: 12px;
         color: #aaa;
-        font-family: work-Sans,sans-serif
+        font-family: Montserrat
     }
 
     .chat-box .chat-right-aside .chat .chat-msg-box .message {
