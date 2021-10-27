@@ -20,7 +20,7 @@
 input,
 select,
 textarea {
-    /*max-width: 500px;*/
+    max-width: 500px;
 /*    background-color: #EEE;*/
     color: #000;
 /*    border-color: #EEE;*/
@@ -29,10 +29,10 @@ textarea {
 .boton-search-categories {
     padding-left: 4px;
     max-width: 173px;
-    background-color: #232323;
+    background-color: #04d99d;
     /* border-color: #263d5f; */
     border-style: hidden;
-    color: #CCC;
+    color: #fff;
     font-family: inherit;
     font-size: 14px;
     border-radius: 40px;
@@ -160,7 +160,7 @@ textarea {
 
     .CargaMasiva .CargaMasiva_barcode .barcode-input {
         margin-bottom: 20px;
-        /*margin-left: 50px;*/
+        margin-left: 50px;
     }
 
 .CargaMasiva .CargaMasiva_filter b {
@@ -349,3 +349,46 @@ html .ui-autocomplete {
                 font-weight: normal;
                 margin: -1px;
             }
+
+
+.region-etiquetas {
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.region-etiquetas-horiz {
+    flex-direction: row;
+}
+
+.region-etiquetas-vert {
+    flex-direction: column;
+}
+
+.region-etiquetas-tl {
+    top: 10px;
+    left: 10px;
+}
+
+.region-etiquetas-tr {
+    top: 10px;
+    right: 10px;
+}
+
+.region-etiquetas-bl {
+    bottom: 10px;
+    left: 10px;
+}
+
+.region-etiquetas-br {
+    bottom: 10px;
+    right: 10px;
+}
+
+.region-etiquetas .etiqueta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
