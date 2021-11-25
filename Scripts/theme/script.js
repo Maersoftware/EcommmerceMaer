@@ -794,7 +794,7 @@
         if ($('.product-wrapper-grid').hasClass("list-view")) { }
         else {
             $(".product-wrapper-grid").children().children().removeClass();
-            $(".product-wrapper-grid").children().children().addClass("col-lg-6");
+            $(".product-wrapper-grid").children().children().addClass("col-lg-6 col-6");
             $(".product-imgbox").removeClass('product-box-height6');
             $(".product-imgbox").removeClass('product-box-height4');
             $(".product-imgbox").removeClass('product-box-height3');
@@ -808,7 +808,7 @@
         if ($('.product-wrapper-grid').hasClass("list-view")) { }
         else {
             $(".product-wrapper-grid").children().children().removeClass();
-            $(".product-wrapper-grid").children().children().addClass("col-lg-4");
+            $(".product-wrapper-grid").children().children().addClass("col-lg-4 col-6");
             $(".product-imgbox").removeClass('product-box-height6');
             $(".product-imgbox").removeClass('product-box-height4');
             $(".product-imgbox").removeClass('product-box-height3');
@@ -821,7 +821,7 @@
         if ($('.product-wrapper-grid').hasClass("list-view")) { }
         else {
             $(".product-wrapper-grid").children().children().removeClass();
-            $(".product-wrapper-grid").children().children().addClass("col-lg-3");
+            $(".product-wrapper-grid").children().children().addClass("col-lg-3 col-6");
             $(".product-imgbox").removeClass('product-box-height6');
             $(".product-imgbox").removeClass('product-box-height4');
             $(".product-imgbox").removeClass('product-box-height3');
@@ -834,7 +834,7 @@
         if ($('.product-wrapper-grid').hasClass("list-view")) { }
         else {
             $(".product-wrapper-grid").children().children().removeClass();
-            $(".product-wrapper-grid").children().children().addClass("col-lg-2");
+            $(".product-wrapper-grid").children().children().addClass("col-lg-2 col-6");
             $(".product-imgbox").removeClass('product-box-height6');
             $(".product-imgbox").removeClass('product-box-height4');
             $(".product-imgbox").removeClass('product-box-height3');
