@@ -1019,14 +1019,14 @@
             dots: false,
             infinite: true,
             speed: 300,
-            slidesToShow: 4,
+            slidesToShow: 6,
             slidesToScroll: 1,
             responsive: [
                 {
                     breakpoint: 1700,
                     settings: {
-                        slidesToShow: 4,
-                        slidesToScroll: 4,
+                        slidesToShow: 5,
+                        slidesToScroll: 5,
                         infinite: true
                     }
                 },
