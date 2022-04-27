@@ -386,6 +386,22 @@ html .ui-autocomplete {
     right: 10px;
 }
 
+.order-up .region-etiquetas-tl {
+    left: 40px;
+}
+
+.order-up .region-etiquetas-tr {
+    right: 40px;
+}
+
+.order-up .region-etiquetas-bl {
+    left: 40px;
+}
+
+.order-up .region-etiquetas-br {
+    right: 40px;
+}
+
 .region-etiquetas .etiqueta {
     display: flex;
     align-items: center;
