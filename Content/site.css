@@ -123,7 +123,7 @@ textarea {
     }
 
     .CargaMasiva .CargaMasiva_barcode #btnAgregar, #btnAgregarIr, #btnAgregarCurva {
-        background: ##8cc63f;
+        background: #000000;
         color: #fff;
         font-weight: 700;
         padding: 6px 10px;
@@ -135,7 +135,7 @@ textarea {
     
     }
     .CargaMasiva .CargaMasiva_barcode #btnAgregar{
-        background: ##8cc63f;
+        background: #000000;
         color: #fff;
         font-weight: 700;
         padding: 6px 10px;
@@ -192,7 +192,7 @@ textarea {
         }
 
     .CargaMasiva .CargaMasiva_filter #frmFiltrar .ms-options-wrap.ms-active .ms-options .ms-selectall.global {
-        background: #8cc63f;
+        background: #000000;
         color: #fff;
         font-weight: 700;
         padding: 6px 10px;
@@ -223,7 +223,7 @@ textarea {
             display: block;
             height: 6px;
             width: 70px;
-            background: #8cc63f;
+            background: #000000;
             margin-top: 10px;
             /* margin-right: auto; */
             /* margin-left: auto; */
@@ -231,7 +231,7 @@ textarea {
         }
 
     .CargaMasiva .CargaMasiva_filter #frmFiltrar #btnFiltrar {
-        background: #8cc63f;
+        background: #000000;
         color: #fff;
         font-weight: 700;
         padding: 6px 10px;
