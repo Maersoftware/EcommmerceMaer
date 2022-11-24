@@ -1,6 +1,7 @@
 ﻿#loading {
     position: relative;
-    width: 156px;
+    width: 100%;
+	margin-left:40%;
     height: 19px;
     margin: auto;
 }
