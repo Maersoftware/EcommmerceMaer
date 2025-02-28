@@ -408,3 +408,50 @@ html .ui-autocomplete {
     justify-content: center;
     overflow: hidden;
 }
+
+
+.zippin-servicio {
+    margin-bottom: 15px;
+}
+
+.zippin-servicio-label {
+    margin-bottom: 0px;
+}
+
+.zippin-servicio-principal {
+    margin-bottom: 5px;
+}
+
+.zippin-servicio-detalles {
+    margin-left: 40px;
+}
+
+.zippin-entrega-estimada {
+    font-size: 90%
+}
+
+.zippin-tag {
+    background-color: #aaa;
+    color: white;
+    border-radius: 8px;
+    font-size: 80%;
+    padding: 0px 6px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.zippin-picking-points label {
+    font-size: 90% !important;
+    margin-top: 10px;
+}
+
+.zippin-picking-point-detalles {
+    margin-top: 10px;
+    font-size: 80%;
+}
+
+.zippin-picking-point-detalles label {
+	margin: 0px;
+	margin-right: 5px;
+}
+
